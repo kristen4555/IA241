@@ -44,3 +44,25 @@ for i in range(3,9):
         result = result * i
         
 print(result)
+
+#3.5
+
+result = 1
+
+for i in range(4,9):
+    result = result * i
+    
+print(result)
+
+#3.6
+
+for word in 'this is my 6th string'.split():
+    #print(words)
+    result = result +1
+    
+print(result)
+    
+    
+
+    
+    
